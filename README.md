@@ -25,4 +25,4 @@ $
 
 > **Notas**
 > Intenté calcular la ruta final de los vuelos hasta que tuve el problema de la ramificación de los nodos que estas generan debido a los posibles caminos que se pueden dar, se intentaron implementar algoritmos como Dijkstra o HoffmanPavley pero por tiempo no lo logré.
-> Se agregó swagger para probar los m+etodos, se puede ingresar desde la ruta raíz del api /swagger
+> Se agregó swagger para probar los métodos, se puede ingresar desde la ruta raíz del api /swagger
